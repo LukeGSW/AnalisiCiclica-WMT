@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-08-13T10:04:46.027755",
+  "ticker": "WMT",
+  "data_points": 2475,
+  "latest_signal": {
+    "date": "2025-08-12",
+    "signal": "HOLD",
+    "position": "FLAT",
+    "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
+    "phase_value": 0.850702030263136,
+    "oscillator_value": 3.4455000000000098,
+    "signal_strength": 44.087050826249346,
+    "confidence": "MEDIUM",
+    "price": 103.62,
+    "timestamp": "2025-08-13T10:04:41.249167"
+  },
+  "backtest_metrics": {
+    "total_return_%": 194.58117380947138,
+    "max_drawdown_%": 10.019584274050311,
+    "sharpe_ratio": 2.370213279548863,
+    "sortino_ratio": 2.683955252099476,
+    "calmar_ratio": 3.7915881128026,
+    "total_trades": 14,
+    "win_rate_%": 85.71428571428571,
+    "profit_factor": 37.591674846731074
+  },
+  "cycle_analysis": {
+    "dominant_period": 84.0,
+    "p_value": 0.0,
+    "significant": "True"
+  }
+}
