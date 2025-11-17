@@ -1,12 +1,12 @@
 {
-  "date": "2025-11-14",
+  "date": "2025-11-17",
   "signal": "HOLD",
   "position": "FLAT",
   "phase_quadrant": "Quadrante 4 (Discesa -> Minimo)",
-  "phase_value": 2.5054150324680498,
-  "oscillator_value": -1.1587499999999977,
-  "signal_strength": 13.10928676922146,
+  "phase_value": 2.4652375623503744,
+  "oscillator_value": -1.0260000000000105,
+  "signal_strength": 12.091946052488963,
   "confidence": "LOW",
-  "price": 102.48,
-  "timestamp": "2025-11-14T21:37:51.578003"
+  "price": 102.95,
+  "timestamp": "2025-11-17T21:39:20.861200"
 }
