@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-11-18T21:41:41.507190",
+  "timestamp": "2025-11-19T21:36:39.952825",
   "ticker": "WMT",
-  "data_points": 2541,
+  "data_points": 2542,
   "latest_signal": {
-    "date": "2025-11-18",
+    "date": "2025-11-19",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 4 (Discesa -> Minimo)",
-    "phase_value": 2.502279550669038,
-    "oscillator_value": -1.085749999999976,
-    "signal_strength": 12.38735983965703,
+    "phase_value": 2.5808983792738074,
+    "oscillator_value": -1.1187499999999773,
+    "signal_strength": 11.970297706034648,
     "confidence": "LOW",
-    "price": 101.39,
-    "timestamp": "2025-11-18T21:41:40.240779"
+    "price": 100.61,
+    "timestamp": "2025-11-19T21:36:38.808843"
   },
   "backtest_metrics": {
     "total_return_%": 97.8590426214641,
