@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-10T21:43:15.286333",
+  "timestamp": "2025-12-11T21:41:00.661128",
   "ticker": "WMT",
-  "data_points": 2556,
+  "data_points": 2557,
   "latest_signal": {
-    "date": "2025-12-10",
+    "date": "2025-12-11",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 0.8015505696191234,
-    "oscillator_value": 6.664749999999998,
-    "signal_strength": 83.21494709572738,
+    "phase_value": 0.8119963815404402,
+    "oscillator_value": 7.144500000000022,
+    "signal_strength": 89.85906552668285,
     "confidence": "HIGH",
-    "price": 113.18,
-    "timestamp": "2025-12-10T21:43:14.189161"
+    "price": 115.52,
+    "timestamp": "2025-12-11T21:40:59.407877"
   },
   "backtest_metrics": {
-    "total_return_%": 104.14367318570328,
+    "total_return_%": 111.24252643069994,
     "max_drawdown_%": 1.7685421519485267,
-    "sharpe_ratio": 1.5688003478453278,
-    "sortino_ratio": Infinity,
-    "calmar_ratio": 13.906449041867006,
+    "sharpe_ratio": 1.5992671909895058,
+    "sortino_ratio": 1.3558616400097028,
+    "calmar_ratio": 14.56015934521552,
     "total_trades": 14,
-    "win_rate_%": 92.85714285714286,
-    "profit_factor": 59.41094422522198
+    "win_rate_%": 85.71428571428571,
+    "profit_factor": 63.28822568194282
   },
   "cycle_analysis": {
     "dominant_period": 63.0,
