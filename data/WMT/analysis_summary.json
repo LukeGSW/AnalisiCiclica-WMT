@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-01-01T21:39:53.451232",
+  "timestamp": "2026-01-02T21:38:15.394869",
   "ticker": "WMT",
-  "data_points": 2570,
+  "data_points": 2571,
   "latest_signal": {
-    "date": "2025-12-31",
+    "date": "2026-01-02",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 1.1828027321244445,
-    "oscillator_value": 3.4501249999999857,
-    "signal_strength": 84.81600680809117,
+    "phase_value": 1.221921435928434,
+    "oscillator_value": 2.8851250000000164,
+    "signal_strength": 78.94711721573162,
     "confidence": "HIGH",
-    "price": 111.41,
-    "timestamp": "2026-01-01T21:39:52.194864"
+    "price": 112.59,
+    "timestamp": "2026-01-02T21:38:14.057886"
   },
   "backtest_metrics": {
     "total_return_%": 121.79827711967093,
